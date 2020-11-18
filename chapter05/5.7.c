@@ -1,0 +1,4 @@
+zero()
+{
+    return 0;
+}
